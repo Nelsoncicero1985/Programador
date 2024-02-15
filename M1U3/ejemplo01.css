@@ -1,0 +1,61 @@
+p{color: rgb(22, 20, 122);}
+h1{background-color: blue;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: 1000;
+font-size: xx-large;
+font-style: italic;
+text-align: center;
+text-shadow: -13px -2px 6px rgba(0,0,0,0.6);}
+.caja-marron{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: maroon;
+    box-shadow: -12px -8px 17px 2px rgba(0,0,0,0.75);
+-webkit-box-shadow: -12px -8px 17px 2px rgba(0,0,0,0.75);
+-moz-box-shadow: -12px -8px 17px 2px rgba(0,0,0,0.75);
+    width: 500px;
+    height: 500px;
+    border-style: double;
+    margin: auto;}
+.caja-marron img{
+      display: flex;
+    justify-content: center;
+    align-items: center;
+ width:300px;
+    height:400px ;}
+.destacados{
+    color: rgb(219, 17, 17);
+    font-style: italic;}
+.contenedor{
+	/* display: inline-flex; */}
+
+.item{
+	background-color: #c26666;
+    box-shadow: -12px -8px 17px 2px rgba(0,0,0,0.75);
+-webkit-box-shadow: -12px -8px 17px 2px rgba(0,0,0,0.75);
+-moz-box-shadow: -12px -8px 17px 2px rgba(0,0,0,0.75);
+	width: 300px;
+	height: 50px;
+	margin: 10px;
+	font-size: 20px;}
+h2 {background-color: rgb(15, 146, 37);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 250;
+    font-size: xx-large;
+    font-style: italic;}
+    .contenedor{/* display: inline-flex; */}
+    
+    .item{
+        background-color: #c26666;
+        box-shadow: -12px -8px 17px 2px rgba(0,0,0,0.75);
+-webkit-box-shadow: -12px -8px 17px 2px rgba(0,0,0,0.75);
+-moz-box-shadow: -12px -8px 17px 2px rgba(0,0,0,0.75);
+        width: 300px;
+        height: 50px;
+        margin: 10px;
+        font-size: 20px;}
+        h3{background-color: #ff9216;
+        background-size: auto;
+        font-weight: 1000;
+        text-align: center;}
