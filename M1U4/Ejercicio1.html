@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+</head>
+
+<body>
+    <script>
+        let distancia = parseInt(prompt('Ingrese distancia a recorrer:', ''));
+
+        if ( distancia>= 0 && distancia <= 1000)  
+        {document.write('Debe recorer el camino a pie');}
+
+        else if ( distancia>= 1001 && distancia <= 10000)
+        {document.write('Debe recorer el camino en bicicleta');}
+        
+        else if ( distancia>= 10001 && distancia <= 30000)  
+        {document.write('Debe recorer el camino en colectivo');}
+        
+        else if ( distancia>= 30001 && distancia <= 100000)
+        {document.write('Debe recorer el camino en auto');}
+
+        else if ( distancia>= 100000 )
+        {document.write('Debe llegar al destino en avion');}
+        
+            
+    </script>
+ 
+</body>
+
+</html>
