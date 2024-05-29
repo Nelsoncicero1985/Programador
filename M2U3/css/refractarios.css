@@ -1,0 +1,38 @@
+/*
+  font-family: "Bungee Inline", sans-serif;
+  font-family: "EB Garamond", serif;
+*/
+
+
+
+h1{font-family:  "Bungee Inline", sans-serif;
+font-weight: 900;
+font-style: var(background-color);} 
+
+.hero{
+  background: url(../img/refractario.jpg)no-repeat;
+background-size:cover;
+height: 0.5vh;
+min-height:800px;
+color: white;}
+
+h2{background-color: grey;
+font-weight: 600;
+text-align: center;}
+
+
+h3{background-color: grey;
+  font-weight: 600;
+  text-align: center}
+
+
+  h4{text-align: center;}
+
+
+  .staff{background: #e1b172;}
+
+  
+  .clearfix{background: #e1b172;}
+
+  html{scroll-behavior: smooth;}
+ 
